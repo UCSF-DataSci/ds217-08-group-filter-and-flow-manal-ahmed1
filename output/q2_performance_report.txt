@@ -1,0 +1,22 @@
+Assignment 8 Question 2 Performance Report:
+              facility_name provider_id    provider_name  years_experience          specialty
+Cardiology Specialty Center      PR0346 Cameron Martinez                28           Oncology
+Cardiology Specialty Center      PR0174    Alex Williams                15       Primary Care
+      City General Hospital      PR0466       Alex Brown                12        Dermatology
+      City General Hospital      PR0088      Alex Wilson                35        Orthopedics
+    Community Health Clinic      PR0065   Jamie Martinez                36          Radiology
+    Community Health Clinic      PR0486    Cameron Davis                18          Radiology
+   Emergency Medical Center      PR0327     Quinn Garcia                14 Emergency Medicine
+   Emergency Medical Center      PR0331      Quinn Smith                19       Primary Care
+      Northside Urgent Care      PR0204     Sam Anderson                15          Radiology
+      Northside Urgent Care      PR0342    Cameron Smith                19          Radiology
+  Oncology Treatment Center      PR0083    Taylor Wilson                24        Dermatology
+  Oncology Treatment Center      PR0174    Alex Williams                15       Primary Care
+      Pediatric Care Center      PR0031 Cameron Anderson                18        Dermatology
+      Pediatric Care Center      PR0136    Morgan Garcia                33          Neurology
+        Primary Care Clinic      PR0433      Riley Jones                19   General Practice
+        Primary Care Clinic      PR0176      Drew Miller                28   General Practice
+    Regional Medical Center      PR0457    Jordan Wilson                11           Oncology
+    Regional Medical Center      PR0211     Taylor Davis                16         Pediatrics
+  Surgical Specialty Center      PR0318      Casey Brown                15        Orthopedics
+  Surgical Specialty Center      PR0156    Morgan Miller                34         Psychiatry
